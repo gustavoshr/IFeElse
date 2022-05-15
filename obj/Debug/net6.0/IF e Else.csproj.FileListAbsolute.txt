@@ -1,0 +1,15 @@
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\IF e Else.csproj.AssemblyReference.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\IF e Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\IF e Else.AssemblyInfoInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\IF e Else.AssemblyInfo.cs
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\IF e Else.csproj.CoreCompileInputs.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\bin\Debug\net6.0\IF e Else.exe
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\bin\Debug\net6.0\IF e Else.deps.json
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\bin\Debug\net6.0\IF e Else.runtimeconfig.json
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\bin\Debug\net6.0\IF e Else.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\bin\Debug\net6.0\IF e Else.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\IF e Else.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\refint\IF e Else.dll
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\IF e Else.pdb
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\IF e Else.genruntimeconfig.cache
+C:\Users\gustav\OneDrive\Área de Trabalho\IF e Else\obj\Debug\net6.0\ref\IF e Else.dll
